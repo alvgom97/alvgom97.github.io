@@ -2,7 +2,7 @@
 
 This is my repositoy for GeeksHubs' Bootcamp.
 
-### My projects
+### This are my projects
 
 - [Calculator](https://alvgom97.github.io/Calculator)
 - [Task Organizer](https://alvgom97.github.io/Organizer)
