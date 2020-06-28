@@ -2,7 +2,7 @@
 
 This is my repositoy for GeeksHubs' Bootcamp.
 
-### This are my projects:
+### These are my projects:
 
 - [Portfolio](https://alvgom97.github.io/Portfolio/)
 - [Calculator](https://alvgom97.github.io/Calculator/)
