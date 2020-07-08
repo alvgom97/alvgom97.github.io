@@ -7,7 +7,6 @@ This is my repositoy for GeeksHubs' Bootcamp.
 - [Portfolio](https://alvgom97.github.io/Portfolio/)
 - [Calculator](https://alvgom97.github.io/Calculator/)
 - [Task Organizer](https://alvgom97.github.io/Organizer/)
-- [Covid Latest Data](https://alvgom97.github.io/Covid-PWA/)
 
 _More coming soon..._
 
